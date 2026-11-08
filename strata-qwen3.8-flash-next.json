@@ -1,0 +1,27 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://ai.exocomet-boga.ts.net:2443",
+    "ANTHROPIC_AUTH_TOKEN": "dummy",
+
+    "API_TIMEOUT_MS": "1800000",
+    "API_FORCE_IDLE_TIMEOUT": "0",
+
+    "ANTHROPIC_MODEL": "qwen3.8-flash-next-unsloth-ud-iq4_xs-v31",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "qwen3.8-flash-next-unsloth-ud-iq4_xs-v31",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "qwen3.8-flash-next-unsloth-ud-iq4_xs-v31",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "qwen3.8-flash-next-unsloth-ud-iq4_xs-v31",
+    "ANTHROPIC_DEFAULT_FABLE_MODEL": "qwen3.8-flash-next-unsloth-ud-iq4_xs-v31",
+    "CLAUDE_CODE_SUBAGENT_MODEL": "qwen3.8-flash-next-unsloth-ud-iq4_xs-v31",
+
+    "CLAUDE_CODE_AUTO_COMPACT_WINDOW": "120000",
+    "CLAUDE_CODE_ATTRIBUTION_HEADER": "0",
+    "CLAUDE_CODE_DISABLE_EXPERIMENTAL_BETAS": "1",
+    "CLAUDE_CODE_DISABLE_NONSTREAMING_FALLBACK": "1",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
+  },
+
+  "agent": "strata-mini-qwen3.8-flash-next",
+  "autoMemoryEnabled": false,
+  "includeGitInstructions": false,
+  "attribution": { "commit": "", "pr": "" }
+}
