@@ -20,7 +20,7 @@
     "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"
   },
 
-  "agent": "strata-mini-qwen3.8-flash-next",
+  "agent": "reduced",
   "autoMemoryEnabled": false,
   "includeGitInstructions": false,
   "attribution": { "commit": "", "pr": "" }
