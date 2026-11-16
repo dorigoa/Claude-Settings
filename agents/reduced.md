@@ -1,6 +1,6 @@
 ---
-name: strata-mini-qwen3.8-flash-next
-description: Main-thread agent for the local LLM profile (strata-qwen3.8.json). Not for use as a subagent.
+name: reduced
+description: Main-thread agent for the local LLM profile. Not for use as a subagent.
 tools: Bash, Read, Edit, Write
 ---
 You are a coding assistant working in the user's terminal on macOS.
