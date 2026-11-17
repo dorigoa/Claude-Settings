@@ -21,6 +21,7 @@
   },
 
   "agent": "reduced",
+  "effortLevel": "medium",
   "autoMemoryEnabled": false,
   "includeGitInstructions": false,
   "attribution": { "commit": "", "pr": "" }
